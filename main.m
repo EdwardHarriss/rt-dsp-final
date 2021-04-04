@@ -18,3 +18,5 @@ newp = p(1:shorter);
 newv = v(1:shorter);
 
 output = newh + newp - 30*newv;
+
+sound(output)
