@@ -15,3 +15,5 @@ To upload code onto the DSP
 To test HPSS model on PC
 
 1. Run main_hpss.m making sure to change .wav file name for audio_in
+
+The audiofile to listen to will be called output.wav
